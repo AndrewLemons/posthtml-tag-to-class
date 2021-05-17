@@ -1,0 +1,13 @@
+{
+	"name": "posthtml-tag-to-class",
+	"version": "1.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"prettier": "prettier -w ."
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.3.0"
+	}
+}
